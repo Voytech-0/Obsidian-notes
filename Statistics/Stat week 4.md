@@ -44,7 +44,7 @@ Tags:
 	- We no longer assume symmetry  
 	- Instead, **we assume that both samples are drawn from populations with the same distribution shape**
 ### Chi-squared test of independence
-	If you want to know whether two variables are independent, you put them to- gether in a frequency table to then perform a χ2-squared test. This table is obtained through xtabs(∼ var1 + var2). For the χ2-squared test of inde- pendence, your H0 is that the two variables are independent of each other and are not related. The HA is that the variables are dependent. The output of chisq.test(table) function will be a p-value that allows you to decide whether to reject the null hypothesis or not.
+	If you want to know whether two variables are independent, you put them together in a frequency table to then perform a χ2-squared test. This table is obtained through xtabs(∼ var1 + var2). For the χ2-squared test of ind pendence, your H0 is that the two variables are independent of each other and are not related. The HA is that the variables are dependent. The output of chisq.test(table) function will be a p-value that allows you to decide whether to reject the null hypothesis or not.
 
 ```R
 chisq.test(table(dat$Species, dat$size))

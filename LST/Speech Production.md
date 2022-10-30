@@ -20,10 +20,10 @@ Three mechanisms used for speech production are:
 
 *Mucosal wave* is a wave-like motion of the vocal fold surface
 
-
 ## Supra-glottal system – Articulation phase
 	- This phase happens after air passes through vocal folds. 
-- There are two Helmholz resonators (*nasal cavity* and *oral cavity*)
+- There are two **Helmholz resonators** (*nasal cavity* and *oral cavity*)
+	- Frequency is determined by the following equation, where A is the diameter of cross-section area, L is the length of the resonator, and V is the volume of the cavity $$f=\frac{c}{2\pi}\sqrt{\frac{A}{VL}}$$ ![[Pasted image 20221028130027.png|200]]
 - *Oral cavity* is divided by tongue creating *oral cavity* and *pharyngeal cavity*
 - The area from the nose and the nasal cavity down to the vocal cords deep in the throat is called a **vocal tract**. It amplifies the frequencies
 
@@ -54,6 +54,7 @@ The most sonorous sound is called the **nucleus** of a syllable.
 - Vocal folds open and close in a vibrating fashion 
 - *Bernoulli effect* – vibration of vocal folds caused during air flow / periodic train of air pulses
 - *Whisper triangle* – vocal folds are mostly closed and leave a small triangle opened when whispering.
+- Resonance of *vocal tract* determines vocal formants 
 
 ## Sub-glottal system – initiation phase
 	Inspiration and expiration of air
@@ -63,20 +64,25 @@ The most sonorous sound is called the **nucleus** of a syllable.
 
 **[[Formants]]** are differences in frequency produced by our supra-glottal system. They show where the highest amplitude of frequency is.
 
-## Vowels
+---
+
+### Vowels
 Characterised by:
 
-Vowels are characterised by location of constriction, tongue position, mouth position
+Vowels are *characterised by*:
+- location of constriction, 
+- tongue position, 
+- mouth position
 
-![[frequencyOfVowels.png|300]]
+![[frequencyOfVowels.png|500]]
 
-## Consonants
+### Consonants
 Characterised by:
 	- place 
 	- manner
 	- voicing
 
-***Speech characteristics:***
+### Speech characteristics:
 **Periodicity**
 Local maximum
 Silence and [[prevoicing]] are associated with plosives.
@@ -89,8 +95,8 @@ etc.
 	- **Anticipatory** – vowel u influences word onset in stew
 	- **Carryover** – vowel u influences consonant in use
 
-***Prosodic features***
-- Prosody – suprasegmental properties of speech
+### Prosodic features
+- *Prosody* – suprasegmental properties of speech
 	- Properties of larger units of speech (syllables, words, utterances)
 	- Reflects elements of language not encoded by grammar or choice of vocabulary
 		- Contrast, prominence, irony, emotion 

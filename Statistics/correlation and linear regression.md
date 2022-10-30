@@ -6,7 +6,7 @@ Tags:
 
 # Linear regression
 	assumes that the true relationship between variables X and Y can be described by a linear equation
-We can check linear regression with summary(lm(...)) which gives us the significance nad linear model of the regression
+We can check linear regression with summary(lm(...)) which gives us the significance and linear model of the regression
 	
 $$ Y = \beta_0 + \beta_1 X + \epsilon $$
 $Y$ is the response variable that we want to describe  

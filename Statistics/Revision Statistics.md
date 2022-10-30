@@ -8,6 +8,10 @@ Tags:
 library(reshape2)
 library(ggplot2)
 ```
+`c(1,2,3,)` creates a matrix of elements 1, 2, 3
+
+ggplot(data.frame(Nile), aes(x=Nile)) + geom histogram()
+
 `reshape2` can be used to `melt()` data from multiple 
 
 `rnorm(n, mean, sd)` generates `n` numbers in from the normal distribution
@@ -26,7 +30,7 @@ library(ggplot2)
 
 `with(data, ...)`
 
-`prop.test(x=c(560,570), n=c(1000,1200), conf.level=0.95)` 
+	`prop.test(x=c(560,570), n=c(1000,1200), conf.level=0.95)` 
 
 `subset(babies, age < 99 & dage < 99)`
 
@@ -37,7 +41,7 @@ library(ggplot2)
 
 `predict(lm(rating ~ price * location, data), interval="prediction", level=0.99, newdata = data.frame(location=c("Inner City"), price=c(21)))`
 
-`sapply(with(female.inc,split(income,race)),mean)`
+`sapply(with(female.inc, split(income,race)), mean)`
 
 ```R
 acceptableCars = c("SUV", "midsize", "subcompact")
@@ -50,6 +54,8 @@ kruskal.test(Driver.deaths ~ type, data=subset(carsafety, type %in% acceptableCa
 `par(mfrow=c(2,2))` enables display of 2x2 grid of plots
 
 `TukeyHSD(aov(size ~ species * pestcontrol, data))`
+
+`glm(spam ̃ ., data=emails10, family=binomial)`
 ## bootstrapping 
 - Approximates the population distribution without assumptions 
 - Can be used for confidence intervals for population parameters
