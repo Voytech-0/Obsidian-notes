@@ -3,11 +3,11 @@ Status:  #LanguageAndSpeech
 Tags: 
 
 # Corpus
-A collection of texts with some ===unifying characteristics==
+A collection of texts with some **unifying characteristics** (functional for language analysis)
 
 Corpora uses:
 - *Applicative*: develop NLP tools
-- *Analytic*: 
+- *Analytic*: Empirical basis on the distribution of constrictions and language phenomena 
 
 Classifying corpora:
 - *Mode*: written vs spoken vs multimedia vs mixed
@@ -19,7 +19,7 @@ Classifying corpora:
 - *Sampling*: full documents / transcriptions vs sample of documents / transcriptions
 - *Mark-up*: 'raw' vs annotated
 
-Balanced corpus:
+**Balanced corpus**:
 - Collection of texts / documents / speeches:
 	- Big in size
 	- mixed: (should) contain written and spoke language
@@ -39,8 +39,8 @@ Balanced corpus:
 	- Limitation: Only published texts
 
 Other corpora:
-- SUC - Stockholm-Umea Corpus
-- sth
+- SUC - Stockholm-Umea Corpus of Swedish
+- BNC – British National Corpus
 
 **Parallel corpora**:
 - Original text and a translation, linked with another
@@ -49,7 +49,7 @@ Other corpora:
 
 **Dynamic corpora**:
 - New texts added continuously
-- Useful for diachronic studies
+- Useful for *diachronic studies*
 - Example:
 - COCA - Corpus of Contemporary American English
 	- 560 million words
@@ -60,6 +60,8 @@ Other corpora:
 **Treebank**:
 - Corpus with linguistic annotation beyond word level
 - Manually checked syntactic annotation
+- They are supposed to be the gold standards for other applications 
+- *Penn Treebank* is a collection of four corpora: BrownCorpus, WallStreetJournalCorpus, SwitchboardCorpus, ASTISCorpus
 
 **Text archives**:
 - Databases of texts:
@@ -82,7 +84,7 @@ RegEx can be used to search for patterns.
 **Vocabulary:**
 - Number of *types* (distinct word units) in the corpus
 **Dictionary**
-- Lema ?????
+- the repository of lemmas and inflected forms (tokens) of a specific language which has been selected for a specific goal/purpose
 
 **Frequency**
 
@@ -93,8 +95,12 @@ RegEx can be used to search for patterns.
 - 70% of types occurs less than four times.
 - Types occurring less than four times make up only 11% of all tokens.
 
-Zipf distribution  
+**Type-Token Ratio** – **TTR** 
+	The type-token ratio (TTR) is a measure of vocabulary variation within a written text or a person’s speech. The type-token ratios of two real world examples are calculated and interpreted. The type-token ratio is shown to be a helpful measure of lexical variety within a text. It can be used to monitor changes in children and adults with vocabulary difficulties.
 
+**Zipf distribution**  
+	Progressive reduction of a word, proportional to the increase of its rank (lower in rank ~ less frequent)
+- Word of rank 3 should occur 1/3 of the time of word of rank 1 and so on
 
 
 ---

@@ -5,6 +5,10 @@ Tags:
 # Speech Production
 Three systems are involved in speech production:
 
+## Models of speech production
+- Levelt's WEAVER++ model (1999):
+- Interactive two-step model (Dell et at, 1997;2007)
+
 ## Essentials of Linguistics 2.1-2.5
 
 **articulatory phonetics** – “how we humans use our bodies to produce speech sounds.”

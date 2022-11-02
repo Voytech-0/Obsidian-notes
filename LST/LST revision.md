@@ -23,7 +23,7 @@ Tags:
 [[Speech Production]]
 - Do not learn the medical names of the elements of ear
 - Understand what the elements are doing 
-- Eg. we are less sensitive to higher frequencies 
+	- Eg. we are less sensitive to higher frequencies 
 - Understand how sounds are heard and how ear processes them
 - Directional hearing
 - Fourier transform - conceptual understanding

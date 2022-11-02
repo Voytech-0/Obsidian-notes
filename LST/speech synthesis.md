@@ -69,6 +69,7 @@ We measure a maximal signal at a given time to create *an envelope* of the wave.
 
 - **A3 Scrambling** was a method of encoding radio-telephone calls in which frequency bands were rearranged and inverted. It could be decoded in real time by the enemy.
 - **Sigsaly**
+	- Developed by Homer
 	- Also called *Project X* or *Green Hornet*
 	- Encryption method for voice calls based on vocoding.
 	- Noise was added to the recording. To encode the message the same exact noise had to be used.
@@ -105,7 +106,7 @@ read about data gathering and synthesizing
 	Source waveform is learned form the data
 - Machine learning approaches 
 
-- **Mel Frequency Ceptral Coefficients (MFCC)**
+- **Mel Frequency Cepstral Coefficients (MFCC)**
 	1. Divide signal in frames of 20-40 ms
 		- Identify frequencies present in the timebin
 	2. Mel filterbank
