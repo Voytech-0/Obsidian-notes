@@ -118,6 +118,9 @@ Advantages:
 - Automatically train the specifications-to-parameter
 
 **Text to speech conversion**:
+		- text
+		- linguistic
+		- generation
 - Identify tokens in the text
 	- Units for which there is a method for finding their pronunciation
 - Subtasks:
@@ -139,6 +142,8 @@ Advantages:
 - Therefore a lot of intonation such as intonation, emotion, gender is missing from the heard sound. 
 - The individual envelopes are represented as short pulses. 
 
+**PSOLA**:
+algorithm which modifies the length and pitch of a signal
 
 
 ---

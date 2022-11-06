@@ -47,6 +47,11 @@ Defining actions using logic:
 	- Glossary
 	- Thesaurus
 	- Informal is-a taxonomies
+- **Formal ontologies**
+	- formal is-a taxonomy (Turkish_pizza is-a pizza)
+	- properties (edible(muffin))
+	- subsumption + properties -> infer properties:
+		(Turkish_pizza is-a pizza) and edible(pizza)therefore edible(Turkish_pizza)
 ### Ontologies on the web
 - **Semantic Web**: objects (parts of webpages) have semantic tags and are linked by semantically meaningful links
 	- Web of entities / things

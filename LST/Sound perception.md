@@ -32,6 +32,7 @@ Sound localisation:
 
 ## 2. Middle ear
 - *Hammer*, anvil *and* *stirrup* part
+- **Ossicles**
 - It is filled with fluid, so the frequency changes 
 - Tympanic membrane (eardrum) vibrated with air
 - Hammer, anvil and stirrup transfer vibrations

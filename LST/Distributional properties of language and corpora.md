@@ -94,6 +94,7 @@ RegEx can be used to search for patterns.
 - **Hapax Legomena** is a set of $V_1$. It makes 45% of tokens
 - 70% of types occurs less than four times.
 - Types occurring less than four times make up only 11% of all tokens.
+- **cumulative frequencies**
 
 **Type-Token Ratio** – **TTR** 
 	The type-token ratio (TTR) is a measure of vocabulary variation within a written text or a person’s speech. The type-token ratios of two real world examples are calculated and interpreted. The type-token ratio is shown to be a helpful measure of lexical variety within a text. It can be used to monitor changes in children and adults with vocabulary difficulties.
