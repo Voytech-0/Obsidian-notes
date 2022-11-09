@@ -33,7 +33,8 @@ A **performative** verb: request, inform, premise, ...
 
 ### The contract net protocol
 **The Contract Net Protocol** (Smith 1980) is a formalised protocol for task sharing with five phases:
-- **Recognition**: The initiator recognises its problem Announcement: The initiator announces its problem to participants  
+- **Recognition**: The initiator recognises its problem 
+- **Announcement**: The initiator announces its problem to participants  
 - **Bidding**: Participants make a proposal (a bid)
 - **Awarding**: The initiator chooses one or more proposals.
 - **Expediting**: The awarded proposals are executed.
@@ -64,6 +65,7 @@ Bidding may be:
 - one shot
 - ascending 
 - descending
+
 **English Auctions**
 - First place
 - Open cry

@@ -25,7 +25,7 @@ Tags:
 
 ---
 ### Partial global planning
-	A coordination mechanism proposed by Durfee and Lesser
+A coordination mechanism proposed by Durfee and Lesser
 - There is a **global goal**
 - **Local conflicts** between the partial plans are determined
 - **Coordination** is achieved by resolving local conflicts, so the global goal can be reached
